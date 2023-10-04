@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Gómez</h1>
 <h3 align="center">A passionate "forever student" and enterpreneur from Spain</h3>
 
-- 🔭 I’m currently working on [**Biw Work House**](https:\\www.bigworkhouse.com)
+- 🔭 I’m currently working on [Big Work House](https:\\www.bigworkhouse.com)
 
 - 🌱 I’m currently learning **in Campus 42**
 
