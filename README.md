@@ -10,11 +10,10 @@
 - 📫 How to reach me **arturo@bigworkhouse.com**
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=agomez-m&theme=dark&show_icons=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agomez-m&layout=compact" />
+
+
 <p align="left">
 </p>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
