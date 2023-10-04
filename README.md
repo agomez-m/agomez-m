@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **arturo@bigworkhouse.com**
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=agomez-m&theme=dark&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agomez-m&layout=compact" />
 <p align="left">
 </p>
 
