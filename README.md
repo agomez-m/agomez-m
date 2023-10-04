@@ -8,7 +8,7 @@
 - 👨‍💻 [LINKEDIN](https://www.linkedin.com/in/arturo-g%C3%B3mez-mart%C3%ADn-crespo-b7a5355a/?originalSubdomain=es)
 
 - 📫 How to reach me **arturo@bigworkhouse.com**
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=agomez-m&theme=dark&show_icons=true" />
 <p align="left">
 </p>
 
