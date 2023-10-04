@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **in Campus 42**
 
-- 👨‍💻 All of my projects are available at [LINKEDIN](https://www.linkedin.com/in/arturo-g%C3%B3mez-mart%C3%ADn-crespo-b7a5355a/?originalSubdomain=es)
+- 👨‍💻 [LINKEDIN](https://www.linkedin.com/in/arturo-g%C3%B3mez-mart%C3%ADn-crespo-b7a5355a/?originalSubdomain=es)
 
 - 📫 How to reach me **arturo@bigworkhouse.com**
 
