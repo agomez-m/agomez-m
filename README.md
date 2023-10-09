@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Big Work House](https://www.bigworkhouse.com)
 
-- 🌱 I’m currently learning **in Campus 42**
+- 🌱 I’m currently learning **in Campus 42** and **UCM**
 
 - 👨‍💻 [LINKEDIN](https://www.linkedin.com/in/arturo-g%C3%B3mez-mart%C3%ADn-crespo-b7a5355a/?originalSubdomain=es)
 
