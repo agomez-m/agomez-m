@@ -25,7 +25,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
-<img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />
 </p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=agomez-m&theme=dark&show_icons=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agomez-m&layout=compact" />
