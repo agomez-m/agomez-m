@@ -26,13 +26,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
 </a>
 <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-</a>
-<a href="" target="_blank" rel="noreferrer">
     <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
 </a>
 <a href="" target="_blank" rel="noreferrer">
     <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="40" height="40" />
+</a>
+<a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
 </a>
 </p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=agomez-m&theme=dark&show_icons=true" />
