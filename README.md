@@ -13,25 +13,25 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="URL_DEL_LOGO_C" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
 </a>
-<a href="URL_DEL_LOGO_JavaScript" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 </a>
-<a href="URL_DEL_LOGO_CSS3" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
 </a>
-<a href="URL_DEL_LOGO_HTML5" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
 </a>
-<a href="URL_DEL_LOGO_Photoshop" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
 </a>
-<a href="URL_DEL_LOGO_Bootstrap" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer">
     <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
 </a>
-<a href="URL_DEL_LOGO_PremierePro" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer">
     <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="40" height="40" />
 </a>
 </p>
