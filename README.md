@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Big Work House](https://www.bigworkhouse.com)
 
-- 🌱 I’m currently learning at [Campus 42](https://github.com/agomez-m/42cursus/blob/main/README.md) and [UCM](https://github.com/agomez-m/42cursus/blob/main/README.md). You can check my progress [here](https://github.com/agomez-m/42cursus/blob/main/README.md).
+- 🌱 I’m currently learning at **Campus 42** and Statistics at **UCM**. You can check my progress [here](https://github.com/agomez-m/42cursus/blob/main/README.md).
 
 - 👨‍💻 [LinkedIn](https://www.linkedin.com/in/arturo-g%C3%B3mez-mart%C3%ADn-crespo-b7a5355a/?originalSubdomain=es)
 
