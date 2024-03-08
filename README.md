@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Gómez</h1>
 <h3 align="center">A passionate "forever student" and entrepreneur from Spain</h3>
 
-- 🔭 📞 I'm currently working at  [Telefonica](https://www.Telefonica.com) and also running my own company, [Big Work House](https://www.bigworkhouse.com)
+- 📞 I'm currently working at  [Telefonica](https://www.Telefonica.com) and also running my own company, [Big Work House](https://www.bigworkhouse.com) 🔭
 
 - 🌱 I’m currently learning at **Campus 42** and Statistics at **UCM**.
 
