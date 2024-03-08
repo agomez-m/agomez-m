@@ -3,7 +3,7 @@
 
 - 📞 I'm currently working at  [Telefonica](https://www.Telefonica.com) and also running my own company, [Big Work House](https://www.bigworkhouse.com) 🔭
 
-- 🌱 I’m currently learning at **Campus 42** and Statistics at **UCM**.
+- 🌱 I’m currently learning at **Campus 42**, Statistics at **UCM** and bootcamp at **UNIR**
 
 - 🌱 You can check my progress in 42 [here](https://github.com/agomez-m/42cursus/blob/main/README.md).
 
