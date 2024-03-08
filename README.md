@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" alt="C" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" alt="InfluxDB" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -25,13 +25,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" alt="JavaScript" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" alt="ElasticSearch" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="CSS3" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src=" https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="CSS3" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
