@@ -25,6 +25,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" alt="JavaScript" width="40" height="40" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="CSS3" width="40" height="40" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
