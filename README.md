@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Arturo Gómez</h1>
-<h3 align="center">A passionate "forever student" and entrepreneur from Spain</h3>
+<h1 align="center">Hi 👋, I'm Arturo Gómez</h1> 
+<h3 align="center">A passionate software engineer and entrepreneur from Spain</h3>
 
-- 📞 I'm currently working as an intern at  [Telefonica](https://www.Telefonica.com) and also running my own company, [Big Work House](https://www.bigworkhouse.com) 🔭
+📞 I’m currently working as a Software Engineer at UST for Telefónica Innovación Digital in the Observability for Entertainment area (specifically in the Alertado project), where I focus on time-series monitoring, anomaly detection, and automation solutions for enhanced observability across digital services. Alongside, I’m running my own business, Big Work House, dedicated to providing audio/video services 🔭
 
-- 🌱 I’m currently learning at **Campus 42**, Statistics at **UCM** and technology bootcamp at **UNIR**
+🌱 I'm committed to lifelong learning, currently progressing through Campus 42, studying Statistics at UCM, and attending a technology bootcamp at UNIR. You can track my journey at 42 here.
 
-- 🌱 You can check my progress in 42 [here](https://github.com/agomez-m/42cursus/blob/main/README.md).
+🌐 Connect with me on LinkedIn to stay updated on my work and projects.
 
-- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/arturo-g%C3%B3mez-mart%C3%ADn-crespo-b7a5355a/?originalSubdomain=es)
-
-- 📫 How to reach me: [arturo@bigworkhouse.com](mailto:arturo@bigworkhouse.com)
+📫 How to reach me: Feel free to contact me at arturo@bigworkhouse.com for collaborations, inquiries, or just a friendly hello.
 
 <p align="left">
 </p>
